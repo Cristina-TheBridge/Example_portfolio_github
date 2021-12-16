@@ -4,7 +4,8 @@
 
 ## [Taller de Seaborn](https://github.com/Cristina-TheBridge/Seaborn)
 Taller para la clase de Data Science para el uso de la libería de Python Seaborn. 
+<img 'imagenes/seaborn.png' >
 
 ## [Taller de Streamlit](https://github.com/Cristina-TheBridge/Taller-Streamlit)
 Taller para la clase de Data Science para el uso de Steamlit. 
-
+<img 'imagenes/covid-19-dashboard.png' >
