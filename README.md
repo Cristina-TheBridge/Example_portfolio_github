@@ -3,9 +3,9 @@
 ### Aquí podrás encontrar los proycectos en los que he estado trabajo
 
 ## [Taller de Seaborn](https://github.com/Cristina-TheBridge/Seaborn)
-Taller para la clase de Data Science para el uso de la libería de Python Seaborn. 
-<img src = 'imagenes/seaborn.png' >
+Taller para la clase de Data Science para el uso de la libería de Python Seaborn. <br>
+<img src = "imagenes/seaborn.png">
 
 ## [Taller de Streamlit](https://github.com/Cristina-TheBridge/Taller-Streamlit)
-Taller para la clase de Data Science para el uso de Steamlit. 
-<img src = 'imagenes/covid-19-dashboard.png' >
+Taller para la clase de Data Science para el uso de Steamlit. <br>
+<img src = "imagenes/covid-19-dashboard.png">
